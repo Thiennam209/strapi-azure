@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "autonomous_cars",
+  "info": {
+    "singularName": "autonomous-car",
+    "pluralName": "autonomous-cars",
+    "displayName": "AutonomousCar"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "v1": {
+      "type": "float"
+    },
+    "v2": {
+      "type": "float"
+    },
+    "a1": {
+      "type": "float"
+    },
+    "a2": {
+      "type": "float"
+    },
+    "d1": {
+      "type": "float"
+    },
+    "d2": {
+      "type": "float"
+    },
+    "d12": {
+      "type": "float"
+    }
+  }
+}

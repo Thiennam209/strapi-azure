@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wind_turbines",
+  "info": {
+    "singularName": "wind-turbine",
+    "pluralName": "wind-turbines",
+    "displayName": "WindTurbine"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "T102CancelAlert": {
+      "type": "boolean"
+    }
+  }
+}
